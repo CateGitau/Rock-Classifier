@@ -5,7 +5,7 @@ train a machine vision classifier that identifies five types of material classes
 ![rocks](/images/rock_1.png)
 ![rocks](/images/rock_2.png)
 
-You can find the project report in this notebook: [https://github.com/CateGitau/Rock-Classifier/blob/main/rock_on_report.ipynb]
+You can find the project report in this (notebook:)[https://github.com/CateGitau/Rock-Classifier/blob/main/rock_on_report.ipynb]
 
 
 
@@ -38,7 +38,7 @@ You can find the project report in this notebook: [https://github.com/CateGitau/
  ### Authors
  - [Martin Page](https://github.com/malcolmrite-dsi)
  - [Catherine Gitau](https://github.com/CateGitau)
- - [Marion](Boynton)
+ - [Marion](https://github.com/marionboynton)
  - [Obed](Dzikunu)
 
  ### License
