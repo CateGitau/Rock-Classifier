@@ -1,4 +1,4 @@
-# Rock-Classifier
+# Rock-Classifier [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/categitau/rock-classifier/main/app.py)
 This project was part of the [Data Science Intensive program](http://dsi-program.com/) module 2 project which emerged the best. Find the certification [here](https://drive.google.com/file/d/1dY4UCGuzdROj7-f2MNAf3kWuxqE__yld/view?usp=sharing). This project's aim was to 
 train a machine vision classifier that identifies five types of material classes for a large mining company in South Africa to allow automatic monitoring of the input bins for their funace. The image sampling system was already implemented and raw image data that is not classified was available. The purpose of this is to help the organization to reduce the material handling errors which leads to inefficiencies in the furnace and drives up production costs. 
 
